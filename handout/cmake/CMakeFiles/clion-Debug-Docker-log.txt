@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\Jessica\NewLab2_ECE749k\handout
+It was created with incompatible generator 'Visual Studio 17 2022'
+
+Please either delete it manually or select another generation directory
